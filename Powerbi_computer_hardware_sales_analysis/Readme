@@ -1,0 +1,67 @@
+# 💻 Computer Hardware Sales & Profit Analysis - Power BI Dashboard
+
+This Power BI project presents a detailed analysis of computer hardware sales and profit metrics across various markets in India. The dashboard enables stakeholders to gain actionable insights into market performance, product profitability, and customer trends.
+
+---
+
+## 📊 Dashboard Overview
+
+### 1. **Sales Analysis**
+- **Total Revenue**: ₹142M  
+- **Total Sales Quantity**: 350K units  
+- **Revenue by Market**: Highest contribution from Delhi (₹78M), followed by Mumbai and Ahmedabad  
+- **Sales Quantity by Market**: Delhi leads in quantity sold  
+- **Revenue Trend**: Displays monthly performance trends  
+- **Top Customers**:
+  - Electricalsara Stores (₹66M)
+  - Excel Stores, Premium Stores, Electricalslytical, and Info Stores  
+- **Top Products**:
+  - Unclassified (Blank) contributes ₹65M
+  - Notable products include Prod047, Prod061, Prod071, and Prod065  
+
+---
+
+### 2. **Profit Analysis**
+- **Total Profit Margin**: ₹2.1M  
+- **Overall Profit Margin %**: ~1.4%  
+- **Profit % by Market**:
+  - Highest in Kochi and Chennai
+  - Negative margins in Lucknow and Bhubaneswar  
+- **Profit Contribution by Market**: Mumbai, Delhi, and Ahmedabad contribute the most  
+- **Customer Profitability**: Includes detailed breakdown of revenue and profit margin per customer  
+
+---
+
+## 🕹 Features & Filters
+
+- **Time Period Filters**: Year and Month slicers for interactive trend analysis  
+- **Market Breakdown**: Region-wise performance across revenue, quantity, and profit  
+- **Visual Components**: Bar charts, line graphs, and summary tables for intuitive interpretation  
+
+---
+
+## 🛠 Tools Used
+
+- Power BI Desktop  
+- DAX for calculated fields and measures  
+- Interactive dashboards and slicers  
+
+---
+
+## 📁 Files Included
+
+- `Screenshot 1`: Sales Analysis Dashboard  
+- `Screenshot 2`: Profit Analysis Dashboard  
+---
+
+## 🔍 Key Insights
+
+- Revenue and profit are highly concentrated in a few key markets and customers  
+- Certain regions contribute significantly to revenue but have poor or negative profit margins  
+- A large portion of product sales is not categorized (marked as "Blank")  
+- Performance trends can be monitored monthly using the provided filters  
+
+---
+
+
+
