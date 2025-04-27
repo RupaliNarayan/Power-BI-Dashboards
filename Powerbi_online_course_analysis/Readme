@@ -1,0 +1,36 @@
+
+
+# 📊 Online Courses Analysis Dashboard | Power BI
+
+## Project Overview
+This Power BI dashboard analyzes **5,000+ recorded online courses** collected from various EdTech platforms.  
+It provides actionable insights to help EdTech companies optimize their **recorded lecture offerings** based on **category-wise**, **language**, **course type**, **duration**, **skills taught**, and **instructor ratings**.
+
+## Key Insights Provided
+- **Course Type Popularity:** Distribution of Courses, Specializations, and Projects across different categories.
+- **Average Viewership:** Analysis of average number of viewers by **sub-category** and **language**.
+- **Top Instructors:** Identification of top-rated instructors per category for strategic partnerships.
+- **Language Analysis:** Most prominent languages and subtitle usage patterns based on viewer preferences.
+- **Subtitle Impact:** Relationship between **number of subtitle languages** offered and **viewer engagement**.
+- **Lecture Duration Effect:** How different **course durations** (up to 200 hours) impact average viewership.
+- **Skill Relevance:** Influence of the **number of skills taught** on course popularity and viewer engagement.
+
+## Dashboard Features
+- **15+ Interactive Filters** for Category, Sub-Category, Course Type, and Language.
+- **25+ Visuals** including bar charts, pie charts, line graphs, and tables.
+- **Dynamic Language and Subtitle Insights** for top 5 categories.
+- **Instructor Leaderboard** based on course ratings.
+- **Duration vs. Engagement Analysis** using customized timeline visuals.
+
+## Tools & Technologies Used
+- **Power BI Desktop**  
+- **Power Query** for data cleaning  
+- **DAX** for advanced calculations  
+- **Excel** (for initial data exploration and preprocessing)
+
+## Business Impact
+- Helped the EdTech startup make **data-driven decisions** on course offerings.
+- Improved **content strategy** based on user preferences for languages, skills, and course formats.
+- Identified high-potential instructors to collaborate with for future content creation.
+- Enhanced understanding of **subtitle needs** to improve accessibility and reach.
+
